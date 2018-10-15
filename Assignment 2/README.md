@@ -1,6 +1,6 @@
 # Assignment 2
 
-### Problem 1 - Hypotenuse Calculations
+## Problem 1 - Hypotenuse Calculations
 Define a function called **hypotenuse** that calculates the length of the hypotenuse of a right triangle when the other two sides are given. The function should take two arguments of type double and return the hypotenuse as a double. Test your program with the side values specified in the following table:
 
 |  Triangle  |  Side 1  |  Side 2  |
@@ -9,10 +9,10 @@ Define a function called **hypotenuse** that calculates the length of the hypote
 |2|5.0|12.0|
 |3|8.0|15.0|
 
-### Problem 2 - Multiples
+## Problem 2 - Multiples
 Write a function multiple that determines for a pair of integers whether the second integer is a multiple of the first. The function should take two integer arguments and return 1 (true) if the second is a multiple of the first, and 0 (false) otherwise. Use this function in a program that inputs a series of pairs of integers.
 
-### Problem 3 - Greatest Common Divisor
+## Problem 3 - Greatest Common Divisor
 The greatest common divisor (GCD) of two integers is the largest integer that evenly divides each of the two numbers. Write function gcd that returns the greatest common divisor of two integers.
 
 ## Problem 4 - Craps Game Modification
