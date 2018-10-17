@@ -2,7 +2,9 @@
 
 ## Problem 1 - Fibonacci
 The Fibonacci series 0, 1, 1, 2, 3, 5, 8, 13, 21, ... begins with the terms 0 and 1 and has the property that each succeeding term is the sum of the two preceding term.
+
 **a)** Write a program that calculates the nth Fibonacci number using iterative approach
+
 **b)** Compare this program with the one was done in class using recursion (section 5.15 of book). Compare both solutions in terms of speed, size of code and memory. Which is more suitable for this problem? Research online or other resources to support your point of view and give references accordingly.
 
 ## Problem 2 - Towers of Hanoi
