@@ -7,7 +7,9 @@ You have learned sorting and searching arrays in class. For this exercise write 
 Write a program in C to find the sum of upper triangular elements of a matrix use the example below as a multi-dimensional array.
 
 |1|**2**|**4**|
+
 |3|4|**6**|
+
 |3|8|8
 
 Example: Sum of upper triangular matrix element is: 2 + 4 + 6 = 12
