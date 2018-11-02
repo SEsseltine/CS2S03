@@ -2,8 +2,9 @@
 
 ## Problem 1 - Left Shifting Computations
 Left shifting an unsigned integer by 1 bit is equivalent to multiplying the value 2. Write function **power2** that takes two integer arguments number and pow and calculates :
-
-`number x 2^pow`
+<p align="center">
+  <code>number x 2<sup>pow</sup></code>
+</p>
 
 Use the shift operator to calculate the result. Print the values as integers and as bits.
 
