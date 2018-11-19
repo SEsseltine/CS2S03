@@ -1,6 +1,6 @@
 # Assignment 8
 
-## Problem 1 - Recursively Search a List
+## Problem 1 - Recursively Search a Linked List
 Write a function **searchList** that recursively searches a linked list for a specified value.  The function should return a pointer to the value if it is found; otherwise, NULL should be returned.  Use your function in a test program that creates a list of integers.  The program should prompt the user for a value to locate in the list.
 
 #### Sample Run: ####
